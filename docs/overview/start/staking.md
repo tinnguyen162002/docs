@@ -69,6 +69,6 @@ Step 2: Input amount of asset want to redelegate. You can redelegate all your st
 
 For more detailed information about staking, see [here](https://docs.aura.network/overview/protocol/staking)
 
-
+hello
 
 
